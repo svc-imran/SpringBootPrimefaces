@@ -1,0 +1,8 @@
+---
+applications:
+ - name: TomcatDev
+   random-route: true
+   path: target/SpringBootPrimefaces-1.0-SNAPSHOT.jar
+   memory: 256M
+   instances: 1
+   buildpack: java_buildpack
