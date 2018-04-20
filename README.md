@@ -1,6 +1,6 @@
 # SpringBootPrimefaces
 
-# Build Project <br />
-    $ mvn clean install <br />
+# Build Project
+    $ mvn clean install
 # Run Embedded Tomcat
     $ mvn spring-boot:run
